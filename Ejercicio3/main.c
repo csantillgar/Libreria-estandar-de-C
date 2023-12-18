@@ -17,7 +17,6 @@ int main(){
     fscanf(file, "%s\n", buffer);
     fclose(file);
 
-
     return 0;
 
 }
