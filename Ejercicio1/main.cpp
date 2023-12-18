@@ -1,6 +1,6 @@
 #include <cstdlib>
 #include <cstdio>
-#include <time.h>
+#include <ctime>
 
 int main() {
     srand(time(0));
